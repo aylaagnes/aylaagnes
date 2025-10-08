@@ -1,20 +1,20 @@
 <!-- 🌟 Capa -->
-<h1 align="center">Oi 👋, eu sou Ayla Agness</h1>
-<h3 align="center">🎓 Estudante de Big Data e Inteligência Analítica | Migrando para o mundo dos Dadoss*</h3>
+<h1 align="center">Oi 👋, eu sou Ayla Agnes</h1>
+<h3 align="center">🎓 Estudante de Big Data e Inteligência Analítica | Migrando para o mundo dos Dados</h3>
 
 ---
 
-### 🌱 Sobre mimm *
+### 🌱 Sobre mim
 
-- 🎓 Atualmente estudando Big Data e Inteligência Analítica *
-- 💼 Em transição de carreira para a área de Análise e Ciência de Dados * 
-- 📚 Aprendendo Python, SQL, Power BI e Estatística * 
-- 💡 Interesse em Análise exploratória, visualização de dados e Machine Learning básico * 
+- 🎓 Atualmente estudando Big Data e Inteligência Analítica 
+- 💼 Em transição de carreira para a área de Análise e Ciência de Dados 
+- 📚 Aprendendo Python, SQL, Power BI e Estatística 
+- 💡 Interesse em Análise exploratória, visualização de dados e Machine Learning básico 
 - ✨ Buscando colaborar em projetos open source e desafios de dados 
 
 ---
 
-### 🧠 Habilidades e Ferramentass *
+### 🧠 Habilidades e Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -26,7 +26,7 @@
 
 ---
 
-### 📊 Meus Projetos de Dadoss *
+### 📊 Meus Projetos de Dados
 
 | Projeto | Descrição | Ferramentas |
 |----------|------------|-------------|
@@ -38,7 +38,7 @@
 
 ---
 
-### 📈 Estatísticas do GitHub *
+### 📈 Estatísticas do GitHub 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aylaagnes&show_icons=true&theme=dracula" height="150" />
@@ -47,7 +47,7 @@
 
 ---
 
-### 🌐 Onde me encontrar *
+### 🌐 Onde me encontrar 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ayla-agnes-pitangui-coutinho/" target="_blank">
